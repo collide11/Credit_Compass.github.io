@@ -1,12 +1,12 @@
 # Credit_Compass.github.io
 
 🧭 Credit Compass
-Loan Collection System — Client Status Tracker
-A web-based loan collection management system built for lending companies handling SSS and GSIS pensioner accounts. Credit Compass helps staff monitor client payment statuses, coordinate field visits, assign agent tasks, and maintain complete client records — all from a single browser-based dashboard with no installation required.
+Loan Collection System - Client Status Tracker
+A web-based loan collection management system built for lending companies handling SSS and GSIS pensioner accounts. Credit Compass helps staff monitor client payment statuses, coordinate field visits, assign agent tasks, and maintain complete client records, all from a single browser-based dashboard with no installation required.
 ---
 
 🌐 Live App
-Deploy your own instance using the setup guide below. Runs entirely on GitHub Pages + Google Sheets — no server needed.
+Deploy your own instance using the setup guide below. Runs entirely on GitHub Pages + Google Sheets, no server needed.
 ---
 
 ✨ Features 📊 Dashboard
